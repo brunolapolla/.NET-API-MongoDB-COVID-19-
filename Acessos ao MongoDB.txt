@@ -1,0 +1,4 @@
+RdOBQfp2gze4rk0e
+
+
+mongodb+srv://api:RdOBQfp2gze4rk0e@cluster0.jibx4.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority
